@@ -1,0 +1,5 @@
+# Bibliotecas e frameworks
+snowflake-snowpark-python
+streamlit
+requests
+pandas
